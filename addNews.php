@@ -45,6 +45,7 @@ and open the template in the editor.
         <div class="container">
             <a href="logout.php" class="btn btn-secondary">Logout</a>
             <a href="index.php" class="btn btn-info">Go Back</a>
+            <a href="editNews.php" class="btn btn-info">Edit News</a>
             
         </div>
         
@@ -92,11 +93,15 @@ and open the template in the editor.
                 <input type="password" id="inputPassword" class="form-control" placeholder="Password" name="pass"required>
                 <br/>
                 <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+                <a href="addUser.php">Cadastrar Usuario </a> |
+                
                 <a href="index.php">Voltar para o portal de Noticias!</a>
+                
             </form>
 
         </div> <!-- /container -->
 
     <?php } ?>
+        
 </body>
 </html>
