@@ -1,5 +1,5 @@
-# Blog de Noticias
-Blog em PHP, MySQL e Bootstrap 
+# Blog de Noticias em PHP
+Blog em PHP, MySQL e Bootstrap
 
 ![principal](https://user-images.githubusercontent.com/6172978/34581986-2f0ece02-f171-11e7-8abe-45794be9f334.png)
 ![login-blog](https://user-images.githubusercontent.com/6172978/34581985-2ef61088-f171-11e7-8f98-1da90d994d23.png)
